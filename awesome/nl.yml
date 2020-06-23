@@ -1,0 +1,35 @@
+price:
+    css: '#priceblock_ourprice'
+    type: Text
+    format: EuroPrice
+dealprice:
+    css: '#priceblock_dealprice'
+    type: Text
+    format: EuroPrice
+title:
+    css: '#title'
+    type: Text
+image:
+    css: '.imgTagWrapper img'
+    multiple: true
+    type: Attribute
+    attribute: data-a-dynamic-image
+    format: Images
+feature:
+    css: '#productDescription'
+    type: Text
+cate:
+    css: "#SalesRank"
+    type: Text
+    format: Cates
+asin:
+    xpath: '//*[@id="SalesRank"]/../*'
+    multiple: true
+    type: Text
+    format: dpAsin
+number_of_reviews:
+    css: 'a.a-link-normal h2'
+    type: Text
+link_to_all_reviews:
+    css: 'div.card-padding a.a-link-emphasis'
+    type: Link

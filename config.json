@@ -1,0 +1,17 @@
+{
+    "marketplace": {
+        "de": "https://www.amazon.de/dp/{0}",
+        "es": "https://www.amazon.es/dp/{0}",
+        "fr": "https://www.amazon.fr/dp/{0}",
+        "it": "https://www.amazon.it/dp/{0}",
+        "nl": "https://www.amazon.nl/dp/{0}",
+        "us": "https://www.amazon.com/dp/{0}",
+        "ca": "https://www.amazon.ca/dp/{0}",
+        "mx": "https://www.amazon.com.mx/dp/{0}",
+        "cn": "https://www.amazon.cn/dp/{0}",
+        "in": "https://www.amazon.in/dp/{0}",
+        "jp": "https://www.amazon.co.jp/dp/{0}",
+        "uk": "https://www.amazon.co.uk/dp/{0}",
+        "au": "https://www.amazon.com.au/dp/{0}"
+    }
+}

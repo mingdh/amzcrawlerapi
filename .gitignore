@@ -1,0 +1,10 @@
+#ignore folders
+.venv/
+.vscode/
+samples/
+
+#ingore files
+amz_fakeagent.sql
+README.MD
+start.sh
+
